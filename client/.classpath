@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="referenced lib"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="referenced lib/org.springframework.asm-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="referenced lib/activemq-all-5.8.0.jar"/>
+	<classpathentry kind="lib" path="referenced lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="referenced lib/com.springsource.net.sf.cglib-sources-2.2.0.jar"/>
+	<classpathentry kind="lib" path="referenced lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="referenced lib/org.springframework.aop-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="referenced lib/org.springframework.aspects-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="referenced lib/org.springframework.beans-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="referenced lib/org.springframework.context-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="referenced lib/org.springframework.context.support-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="referenced lib/org.springframework.core-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="referenced lib/org.springframework.expression-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="referenced lib/org.springframework.jms-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="referenced lib/org.springframework.transaction_3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="referenced lib/spring-integration-amqp-3.0.0.M1.jar"/>
+	<classpathentry kind="lib" path="referenced lib/spring-integration-core-3.0.0.M1.jar"/>
+	<classpathentry kind="lib" path="referenced lib/spring-integration-event-3.0.0.M1.jar"/>
+	<classpathentry kind="lib" path="referenced lib/spring-integration-http-3.0.0.M1.jar"/>
+	<classpathentry kind="lib" path="referenced lib/spring-integration-ip-3.0.0.M1.jar"/>
+	<classpathentry kind="lib" path="referenced lib/spring-integration-jms-3.0.0.M1.jar"/>
+	<classpathentry kind="lib" path="referenced lib/spring-integration-jmx-3.0.0.M1.jar"/>
+	<classpathentry kind="lib" path="referenced lib/spring-integration-jpa-3.0.0.M1.jar"/>
+	<classpathentry kind="lib" path="referenced lib/spring-integration-xml-3.0.0.M1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
